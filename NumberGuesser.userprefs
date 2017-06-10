@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{D7F5CBD6-0B2D-4380-B13F-08A0C8EED5A5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NumberGuesser/Program.cs">
+    <Files>
+      <File FileName="NumberGuesser/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

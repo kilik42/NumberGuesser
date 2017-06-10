@@ -1,0 +1,5 @@
+/Users/marvinevins/Dropbox/resume/portfolio 2017/C#/NumberGuesser/NumberGuesser/bin/Debug/NumberGuesser.exe
+/Users/marvinevins/Dropbox/resume/portfolio 2017/C#/NumberGuesser/NumberGuesser/bin/Debug/NumberGuesser.pdb
+/Users/marvinevins/Dropbox/resume/portfolio 2017/C#/NumberGuesser/NumberGuesser/obj/x86/Debug/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/marvinevins/Dropbox/resume/portfolio 2017/C#/NumberGuesser/NumberGuesser/obj/x86/Debug/NumberGuesser.exe
+/Users/marvinevins/Dropbox/resume/portfolio 2017/C#/NumberGuesser/NumberGuesser/obj/x86/Debug/NumberGuesser.pdb
